@@ -1,0 +1,3 @@
+Hello user!
+
+Take care that the two text files (textfile1 & textfile2) both are identical.

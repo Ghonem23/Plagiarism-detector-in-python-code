@@ -1,0 +1,5 @@
+Nov 13, 2022, Due to persistent use of robots to submit tens of thousands of Moss jobs per day, the submission limit of 100 submissions/day/user is now being enforced.
+April 26, 2021, If you are having trouble registering, please try using Gmail to send the registration message.
+April 10, 2020, The dramatic increase in online courses due to the coronavirus pandemic seems to have led to a corresponding dramatic increase in the use of Moss over the last few weeks. (It's not clear why these two things should be related, but it appears they are.) The public server has been moved to a larger machine (more cores and more memory), which should help meet the increased demand. Difficulties connecting to the server or receiving results are a sign that the server is overloaded at that time; please try again later. All users are asked to limit submissions to no more than 100/day.
+Dec 14, 2018, Added UTF8 conversion script to community contributions
+Feb 1, 2018 And even more community contributions have been added!
