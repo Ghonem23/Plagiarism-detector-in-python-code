@@ -30,5 +30,3 @@ def check_plagiarism():
 
 for res_data in check_plagiarism():
     print(res_data)
-
-
